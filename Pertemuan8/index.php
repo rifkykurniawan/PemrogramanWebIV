@@ -17,7 +17,7 @@ $result = mysqli_query($conn, $query);
     <table width='30%' border="1">
  
     <tr>
-        <th>No</th> 
+        <th>ID</th> 
         <th>Nama</th> 
         <th>Alamat</th> 
         <th>Update</th>
